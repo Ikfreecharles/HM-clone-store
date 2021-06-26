@@ -1,0 +1,208 @@
+[
+    {
+        "id":0,
+        "Name":"Women",
+        "ItemLogo":
+        [
+            "/logos/Zaralogo.png",
+            "/logos/ArmaniCollezioni.png",
+            "/logos/EmporioArmani.png",
+            "/logos/ea7.png",
+            "/logos/ArmaniJeans.png",
+            "/logos/armanijunior.png"
+        ],
+        "Category":
+        [
+            {
+                "id":"i0",
+                "Title":"New Release",
+                "CategoryList":["Show all","Clothes","Shoes and Accessories","Underwear and Nightwears","Bathing clothes"]
+            },
+            {
+                "id":"i1",
+                "Title":"In Trend",
+                "CategoryList":["Y2K fashion","Brock Collection","It is Summer","Linen","Trend collection"]
+            },
+            {
+                "id":"i2",
+                "Title":"Products",
+                "CategoryList":["Dress","Shirts and Tops","Top and Blouses","Hoodies and Sweetshirts","Bathroom clothes","Shorts","Trouser","Jeans","Jumpsuit and Playsuits","Skirts","Accessories","Shoes","Blazer","Cardigans and Pullover","Jackets and Coats","Basics","Underwears","Lounge wear","Nightwear","Socks and Hoses","Sport wear","Beauty","XXtralarge"]
+            },
+            {
+                "id":"i3",
+                "Title":"Special Offers",
+                "CategoryList":["3 for 2 off the fingertip","3 for 2 Hose and Leggings","Leggings","Member:10 percent discount"]
+            },
+            {
+                "id":"i4",
+                "Title":"Gift Cards",
+                "CategoryList":["Gift card"]
+            },
+            {
+                "id":"i5",
+                "Title":"Magazine",
+                "CategoryList":["Magazine"]
+            }
+        ]
+    },
+    {
+        "id":1,
+        "Name":"Men",
+        "ItemLogo":
+        [
+            "/logos/Zaralogo.png",
+            "/logos/ArmaniCollezioni.png",
+            "/logos/EmporioArmani.png",
+            "/logos/ea7.png",
+            "/logos/ArmaniJeans.png",
+            "/logos/armanijunior.png"
+        ],
+        "Category":
+        [
+            {
+                "id":"i0",
+                "Title":"New Release",
+                "CategoryList":["Show all","Clothes","Shoes and Accessories","Underwear and Nightwears","Bathing clothes"]
+            },
+            {
+                "id":"i1",
+                "Title":"Special Offer",
+                "CategoryList":["Favourite upto 19.99","3 for 2 Socks"]
+            },
+            {
+                "id":"i2",
+                "Title":"Products",
+                "CategoryList":["T-shirts","Trouser","Shorts","Shower wear","Hoodies and Sweetshirts","Jeans","Underwear","Socks","Accessories","Shoes","Blazers and Suit","Cardigans and Pullovers","Jackets and Coats","Sport wear","Basics","Night wear","XXLarge","Show all"]
+            },
+            {
+                "id":"i3",
+                "Title":"In Trend",
+                "CategoryList":["3 for 2 off the fingertip","3 for 2 Hose and Leggings","Leggings","Member:10 percent discount"]
+            },
+            {
+                "id":"i4",
+                "Title":"Gift Cards",
+                "CategoryList":["Gift card"]
+            },
+            {
+                "id":"i5",
+                "Title":"Concepts",
+                "CategoryList":["Divided","Casual clothes","Modern Classics"]
+            }
+        ]
+    },
+    {
+        "id":2,
+        "Name":"Baby",
+        "ItemLogo":
+        [
+            "/logos/Zaralogo.png",
+            "/logos/ArmaniCollezioni.png",
+            "/logos/EmporioArmani.png",
+            "/logos/ea7.png",
+            "/logos/ArmaniJeans.png",
+            "/logos/armanijunior.png"
+        ],
+        "Category":
+        [
+            {
+                "id":"i0",
+                "Title":"Offers",
+                "CategoryList":["Sets for 5.99","Favourite upto 9.99","Member:10 discount"]
+            },
+            {
+                "id":"i1",
+                "Title":"Newborn",
+                "CategoryList":["Show all","New","Clothes","Accessories","Outdoor","Shoes"]
+            },
+            {
+                "id":"i2",
+                "Title":"Baby girl",
+                "CategoryList":["Show all","New","Clothes","Accessories","Outdoor","Shoes","Costume"]
+            },
+            {
+                "id":"i3",
+                "Title":"Baby boy",
+                "CategoryList":["Show all","New","Clothes","Accessories","Outdoor","Shoes","Costume"]
+            },
+            {
+                "id":"i4",
+                "Title":"Shop by product",
+                "CategoryList":["Show all","New","Clothes","Accessories","Outdoor","Shoes","Costume"]
+            },
+            {
+                "id":"i5",
+                "Title":"In Trend",
+                "CategoryList":["Baby Exclusive","Multipacks","Basics"]
+            },
+            {
+                "id":"i6",
+                "Title":"Gift cards",
+                "CategoryList":["Gift cards"]
+            }
+        ]
+    },
+    {
+        "id":3,
+        "Name":"Children",
+        "ItemLogo":
+        [
+            "/logos/Zaralogo.png",
+            "/logos/ArmaniCollezioni.png",
+            "/logos/EmporioArmani.png",
+            "/logos/ea7.png",
+            "/logos/ArmaniJeans.png",
+            "/logos/armanijunior.png"
+        ],
+        "Category":
+        [
+            {
+                "id":"i0",
+                "Title":"Coming  soon",
+                "CategoryList":["Categories coming soon"]
+            }
+        ]
+    },
+    {
+        "id":4,
+        "Name":"Brand Home",
+        "ItemLogo":
+        [
+            "/logos/Zaralogo.png",
+            "/logos/ArmaniCollezioni.png",
+            "/logos/EmporioArmani.png",
+            "/logos/ea7.png",
+            "/logos/ArmaniJeans.png",
+            "/logos/armanijunior.png"
+        ],
+        "Category":
+        [
+            {
+                "id":"i0",
+                "Title":"Coming  soon",
+                "CategoryList":["Categories coming soon"]
+            }
+        ]
+    },
+    {
+        "id":5,
+        "Name":"Sale",
+        "ItemLogo":
+        [
+            "/logos/Zaralogo.png",
+            "/logos/ArmaniCollezioni.png",
+            "/logos/EmporioArmani.png",
+            "/logos/ea7.png",
+            "/logos/ArmaniJeans.png",
+            "/logos/armanijunior.png"
+        ],
+        "Category":
+        [
+            {
+                "id":"i0",
+                "Title":"Coming  soon",
+                "CategoryList":["Categories coming soon"]
+            }
+        ]
+    }
+]

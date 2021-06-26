@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "Title":"New",
+        "List":["Show all","Clothes","Shoes and Accessories"]
+    },
+    {
+        "id":2,
+        "Title":"In Trend",
+        "List":["Dress","T-Shirt","Trouser","Shorts","Hoodies and Sweatshirts","Jeans","Jacket and Mafia","Underwear","Socks","Accessories","Shoes","Blazers and Suits","Cardigans and Pullovers","Sportmode","Basics","Nightwear","Premium Selection","Extralarge","Care Products"]
+    },
+    {
+        "id":3,
+        "Title":"Giftcards",
+        "List":["Giftcard"]
+    }
+]

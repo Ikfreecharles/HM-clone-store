@@ -1,0 +1,140 @@
+/* eachProduct component styling */
+.each-product-outer-div {
+    display: flex;
+    height: 90vh;
+}
+
+/* view Product list styling */
+.product-card,
+.product-card-product .product-card-img-div,
+.product-card-price,
+.product-card-sizes,
+.product-card-reviews {
+    margin: 0;
+    padding: 0;
+}
+.product-card {
+    font-weight: 400;
+    padding: 0 0.2rem 0 0;
+    margin: 0 0 3rem 0;
+}
+.product-card-img-div {
+    height: 28rem;
+    width: 100%;
+    background-color: #000;
+}
+.product-card-img-div img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.product-card-product {
+    font-size: 0.7rem;
+    font-weight: 500;
+}
+.product-card-price {
+  font-size: 0.7rem;
+}
+.product-card-sizes {
+    font-size: 0.7rem;
+    padding-right: 2rem;
+}
+.product-card-reviews {
+    font-size: 0.7rem;
+}
+.premium-selection {
+    height: 20px;
+    width: 150px;
+    margin: 0.5rem 0 0 0;
+}
+.premium-selection p {
+    font-size: 0.6rem;
+}
+.show-more-button-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0.4rem 0;
+}
+.show-more-button{
+    width: 30%;
+    border: none;
+    background-color: #000;
+    padding: 1rem;
+    color: #fff;
+}
+.subcategory-detail{
+    font-size: 0.8rem;
+    margin: 1rem 0;
+}
+
+/* all project page styling */
+.all-project-page-main {
+    display: flex;
+}
+
+/* side bar styling */
+.sidebar-div {
+    width: 25vw;
+    padding: 0 2rem;
+}
+.sidebar-div-inner {
+    margin-bottom: 2rem;
+}
+.sidebar-div h6 {
+    font-weight: 700;
+    margin: 0;
+    font-size: 1rem;
+}
+.sidebar-div p {
+    margin: 0.2rem 0;
+    font-size: 0.8rem;
+}
+.sidebar-each-section{
+    margin: 1.5rem 0;
+}
+
+/* sort styling */
+.dropdown {
+    position: relative;
+    margin: 1.5rem 0;
+    cursor: pointer;
+  }
+  .dropdown h5{
+      font-size: 1rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+  }
+  .dropdown-arrow{
+      font-size: 1.5rem;
+  }
+  .dropdown-content {
+    position: absolute;
+    background-color: #fff;
+    width: 20rem;
+    height: auto;
+    display: none;
+    cursor: default;
+    padding: 0.3rem;
+  }
+  .dropdown-options {
+    width: 100%;
+    padding: 1rem;
+  }
+  .dropdown-options:hover {
+    background-color: #f3ecde;
+  }
+  .dropdown:hover > .dropdown-content {
+    display: block;
+  }
+  .dropdown-content p {
+    margin: 0;
+    font-size: 0.8rem;
+  }
+  .sort-by {
+    text-transform: uppercase;
+  }
+  .active {
+    background-color: #f3ecde;
+  }

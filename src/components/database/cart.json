@@ -1,0 +1,30 @@
+[
+   {
+      "id":"w0",
+      "ProductName":"Treewoll dress ZARA",
+      "ProductPrice":"14.99",
+      "AvailableSizes":["S","M","L","XL"],
+      "Review":["","","","","","","","","",""],
+      "image":[
+          "/images/hmgoepprod 14.47.38.jpeg",
+          "/images/hmgoepprod (1) 14.47.38.jpeg",
+          "/images/hmgoepprod (2) 14.47.38.jpeg",
+          "/images/hmgoepprod (3) 14.47.38.jpeg"
+      ],
+      "Premium":true,
+      "Category":["Clothes","Dress"],
+      "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+      "MoreDetails":{
+          "Size":"Das Model ist 184cm groß und trägt Größe M",
+          "Passform":"Regular Fit",
+          "Origin":"100% cotton",
+          "ItemNumber":"0846973100",
+          "ArmLength":"Short arm",
+          "Section":"Round Section",
+          "CareInformation":"Machine wash 40grad",
+          "Concept":"Divided"
+      },
+      "Size":"S",
+      "Quantity":"1"
+  }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "menu":"All Designers",
+        "link":"alldesigners"
+    },
+    {
+        "id":2,
+        "menu":"Women",
+        "link":""
+    },
+    {
+        "id":3,
+        "menu":"Men",
+        "link":""
+    },
+    {
+        "id":4,
+        "menu":"Baby",
+        "link":""
+    },
+    {
+        "id":5,
+        "menu":"Children",
+        "link":""
+    },
+    {
+        "id":6,
+        "menu":"Brand Home",
+        "link":""
+    },
+    {
+        "id":7,
+        "menu":"Sale",
+        "link":""
+    }
+]

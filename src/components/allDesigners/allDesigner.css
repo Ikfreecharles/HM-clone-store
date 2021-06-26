@@ -1,0 +1,71 @@
+/* EachDesigner component */
+.outer-div {
+    height: 90vh;
+    display: flex;
+  }
+  .each-product {
+    width: 17%;
+  }
+  .image-1-div, .image-2-div {
+    height: 45%;
+    width: 100%;
+    /* border: 1px solid #000; */
+    background-color: #fafaf8;
+    position: relative;
+  }
+  .image-1, .image-2 {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -2;
+    transition: all 0.5s cubic-bezier(0.17, 0.67, 0.8, 0.5);
+  }
+  .brand-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .image-1 {
+    transform: translateY(100%);
+    background-color: #fafaf8;
+  }
+  .image-2 {
+    transform: translateY(-100%);
+    background-color: #fafaf8;
+  }
+  .brand-logo {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fafaf8;
+    position: relative;
+    z-index: 3;
+  }
+  .brand-logo-inner-div {
+    height: 600%;
+    width: 100%;
+    background-color: #fafaf8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand-logo-inner-div-mod {
+    height: 100%;
+    transition: all 0.4s;
+  }
+  .brand-logo img {
+    width: 45%;
+    height: auto;
+  }
+  .show-top, .show-bottom {
+    transform: translateY(0);
+    transition: all 0.5s ease;
+  }
+  .show-top {
+    z-index: 3;
+  }
+  .show-bottom {
+    z-index: 1;
+  }

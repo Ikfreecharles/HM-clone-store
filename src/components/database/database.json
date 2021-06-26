@@ -1,0 +1,1263 @@
+[
+    {
+        "id":"0",
+        "ItemLogo":"/logos/Zaralogo.png",
+        "ItemTop":"/images/bbccb07d1b8ee95c42f09a51894d12db.jpeg",
+        "ItemBottom":"/images/0f1abd772c3aa6218a322b08f22fbf63.jpeg",
+        "BrandName":"Zara",
+        "Metadata":"Discover our women and men style and bring fresh wind in your wardrobe. We have essentials for every day like Shirts and T-shirts as well as confortable Loungesets and underwears. Want formal? You can find socks and suits here for both men and women that fits every dresscode. In out Sortiments find also chinos for men and joggers for women in classic and modern colors",
+        "Banners":
+        [
+           {
+              "images":[
+                 "/dashboardImages/hmgoepprod 12.04.30.jpeg",
+                 "/dashboardImages/hmgoepprod (1) 12.04.29.jpeg"
+              ],
+              "ArticleTitle":"Sundress for everybody",
+              "ArticleDescription":"Enjoy the summer in Style"
+           },
+           {
+              "images":[
+                 "/dashboardImages/hmgoepprod 13.11.11.jpeg",
+                 "/dashboardImages/hmgoepprod (1) 13.11.11.jpeg"
+              ],
+              "ArticleTitle":"Simplicity Redefined",
+              "ArticleDescription":"Rock these timeless T-shirts"
+           }
+        ],
+        "Women":[
+            {
+                "id":"w0",
+                "ProductName":"Treewoll dress ZARA",
+                "ProductPrice":"€14.99",
+                "AvailableSizes":["S","M","L","XL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod 14.47.38.jpeg",
+                    "/images/hmgoepprod (1) 14.47.38.jpeg",
+                    "/images/hmgoepprod (2) 14.47.38.jpeg",
+                    "/images/hmgoepprod (3) 14.47.38.jpeg"
+                ],
+                "Premium":true,
+                "Category":["Clothes","Dress"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973100",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w1",
+                "ProductName":"Treewoll dress with v-section ZARA",
+                "ProductPrice":"€15.99",
+                "AvailableSizes":["S","M","L","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod.jpeg",
+                    "/images/hmgoepprod (1).jpeg",
+                    "/images/hmgoepprod (2).jpeg",
+                    "/images/hmgoepprod (3).jpeg",
+                    "/images/hmgoepprod (4).jpeg",
+                    "/images/hmgoepprod (5).jpeg"
+                ],
+                "Premium":true,
+                "Category":["Clothes","Dress"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973101",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w2",
+                "ProductName":"Gesmodes dress ZARA",
+                "ProductPrice":"€14.99",
+                "AvailableSizes":["S","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod 14.53.08.jpeg",
+                    "/images/hmgoepprod (1) 14.53.08.jpeg",
+                    "/images/hmgoepprod (2) 14.53.08.jpeg",
+                    "/images/hmgoepprod (3) 14.53.08.jpeg",
+                    "/images/hmgoepprod (4) 14.53.08.jpeg",
+                    "/images/hmgoepprod (5) 14.53.08.jpeg"
+                ],
+                "Premium":false,
+                "Category":["Nightwear","Clothes","Dress"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973103",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w3",
+                "ProductName":"Cloth from Linen ZARA",
+                "ProductPrice":"€14.99",
+                "AvailableSizes":["S","M","L","XL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod 15.01.23.jpeg",
+                    "/images/hmgoepprod (1) 15.01.23.jpeg",
+                    "/images/hmgoepprod (2) 15.01.23.jpeg",
+                    "/images/hmgoepprod (3) 15.01.23.jpeg",
+                    "/images/hmgoepprod (4) 15.01.23.jpeg",
+                    "/images/hmgoepprod (5) 15.01.23.jpeg"
+                ],
+                "Premium":false,
+                "Category":["Dress","Clothes","T-Shirt"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973104"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w4",
+                "ProductName":"Light long T-shirt-Dress ZARA",
+                "ProductPrice":"€14.99",
+                "AvailableSizes":["S","M","L","XL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod (1) 16.22.17.jpeg",
+                    "/images/hmgoepprod 16.22.17.jpeg",
+                    "/images/hmgoepprod (2) 16.22.17.jpeg",
+                    "/images/hmgoepprod (3) 16.22.17.jpeg",
+                    "/images/hmgoepprod (4) 16.22.17.jpeg",
+                    "/images/hmgoepprod (5) 16.22.17.jpeg"
+                ],
+                "Premium":true,
+                "Category":["Dress","Clothes","T-Shirt"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ],
+        "Men":[
+            {
+                "id":"m0",
+                "ProductName":"Product1 Men ZARA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["T-Shirt"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m1",
+                "ProductName":"Product2 Men ZARA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["T-Shirt"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m2",
+                "ProductName":"Product3 Men ZARA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["T-Shirt"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m3",
+                "ProductName":"Product4 Men ZARA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ]
+    },
+    {
+        "id":"1",
+        "ItemLogo":"/logos/ArmaniCollezioni.png",
+        "ItemTop":"/images/03b2c69e1fac81aecfbb21062a341785.jpeg",
+        "ItemBottom":"/images/22989d258253994b3a7cb5730c48e3c1.jpeg",
+        "BrandName":"Armani Collezioni",
+        "BrandModel":"/images/pexels-harsh-kushwaha-1689731 (1).png",
+        "Metadata":"Discover our women and men style and bring fresh wind in your wardrobe. We have essentials for every day like Shirts and T-shirts as well as confortable Loungesets and underwears. Want formal? You can find socks and suits here for both men and women that fits every dresscode. In out Sortiments find also chinos for men and joggers for women in classic and modern colors",
+        "Banners":
+        [
+           {
+              "images":[
+                 "/dashboardImages/hmgoepprod 18.32.05.jpeg",
+                 "/dashboardImages/hmgoepprod (1) 18.32.05.jpeg"
+              ],
+              "ArticleTitle":"Sundress for everybody",
+              "ArticleDescription":"Enjoy the summer in Style"
+           },
+           {
+              "images":[
+                 "/dashboardImages/hmgoepprod 13.11.11.jpeg",
+                 "/dashboardImages/hmgoepprod (1) 13.11.11.jpeg"
+              ],
+              "ArticleTitle":"Simplicity Redefined",
+              "ArticleDescription":"Rock these timeless T-shirts"
+           }
+        ],
+        "Women":[
+            {
+                "id":"w0",
+                "ProductName":"Knee Length Dress AC",
+                "ProductPrice":"€18.99",
+                "AvailableSizes":["S","M","L","XL","XXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod 17.01.21.jpeg",
+                    "/images/hmgoepprod (1) 17.01.21.jpeg",
+                    "/images/hmgoepprod (2) 17.01.21.jpeg",
+                    "/images/hmgoepprod (3) 17.01.21.jpeg",
+                    "/images/hmgoepprod (4) 17.01.21.jpeg"
+                ],
+                "Category":["Dress","Clothes"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w1",
+                "ProductName":"Bare Wool Dress AC",
+                "ProductPrice":"€17.99",
+                "AvailableSizes":["S","M","L","XL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    "/images/hmgoepprod 17.06.23.jpeg",
+                    "/images/hmgoepprod (1) 17.06.23.jpeg",
+                    "/images/hmgoepprod (2) 17.06.23.jpeg",
+                    "/images/hmgoepprod (3) 17.06.23.jpeg",
+                    "/images/hmgoepprod (4) 17.06.23.jpeg",
+                    "/images/hmgoepprod (5) 17.06.23.jpeg"
+                ],
+                "Premium":true,
+                "Category":["Dress","Clothes"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w2",
+                "ProductName":"Product3 Women AC",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w3",
+                "ProductName":"Product4 Women AC",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ],
+        "Men":[
+            {
+                "id":"m0",
+                "ProductName":"Product1 Men AC",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m1",
+                "ProductName":"Product2 Men AC",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m2",
+                "ProductName":"Product3 Men AC",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m3",
+                "ProductName":"Product4 Men AC",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "ItemLogo":"/logos/EmporioArmani.png",
+        "ItemTop":"/images/283fbf552a582359a37d326fbbae7e35.jpeg",
+        "ItemBottom":"/images/6212216da422dc6c181ceccdf518d71f.jpeg",
+        "BrandName":"Emporio Armani",
+        "BrandModel":"/images/rafaella-mendes-diniz-et_78QkMMQs-unsplash.png",
+        "Women":[
+            {
+                "id":"w0",
+                "ProductName":"Product1 Women EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w1",
+                "ProductName":"Product2 Women EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w2",
+                "ProductName":"Product3 Women EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w3",
+                "ProductName":"Product4 Women EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ],
+        "Men":[
+            {
+                "id":"m0",
+                "ProductName":"Product1 Men EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m1",
+                "ProductName":"Product2 Men EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m2",
+                "ProductName":"Product3 Men EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m3",
+                "ProductName":"Product4 Men EA",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "ItemLogo":"/logos/ea7.png",
+        "ItemTop":"/images/WEEDON-BEC-CHECK-BLACK-und-DERBY-CHECK-BLACK.jpeg",
+        "ItemBottom":"/images/2f0aee380901decd65b640ee853b287a.jpeg",
+        "BrandName":"EA7",
+        "Women":[
+            {
+                "id":"w0",
+                "ProductName":"Product1 Women EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w1",
+                "ProductName":"Product2 Women EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w2",
+                "ProductName":"Product3 Women EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w3",
+                "ProductName":"Product4 Women EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ],
+        "Men":[
+            {
+                "id":"m0",
+                "ProductName":"Product1 Men EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m1",
+                "ProductName":"Product2 Men EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m2",
+                "ProductName":"Product3 Men EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m3",
+                "ProductName":"Product4 Men EA7",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "ItemLogo":"/logos/ArmaniJeans.png",
+        "ItemTop":"/images/438ff153cf65e3201090d95d7d1699d6.jpeg",
+        "ItemBottom":"/images/1daf82ef1670b0b852778f90ad861104.jpeg",
+        "BrandName":"Armani Jeans",
+        "Women":[
+            {
+                "id":"w0",
+                "ProductName":"Product1 Women AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w1",
+                "ProductName":"Product2 Women AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w2",
+                "ProductName":"Product3 Women AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w3",
+                "ProductName":"Product4 Women AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ],
+        "Men":[
+            {
+                "id":"m0",
+                "ProductName":"Product1 Men AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m1",
+                "ProductName":"Product2 Men AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m2",
+                "ProductName":"Product3 Men AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m3",
+                "ProductName":"Product4 Men AJ",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "ItemLogo":"/logos/armanijunior.png",
+        "ItemTop":"/images/cb7f8efb42b8de9b5087d4b2b060d4c8.jpeg",
+        "ItemBottom":"/images/4f9435fafdc32e43fcb46c2663b3b2dd.jpeg",
+        "BrandName":"Armani Junior",
+        "Women":[
+            {
+                "id":"w0",
+                "ProductName":"Product1 Women AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w1",
+                "ProductName":"Product2 Women AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w2",
+                "ProductName":"Product3 Women AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"w3",
+                "ProductName":"Product4 Women AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ],
+        "Men":[
+            {
+                "id":"m0",
+                "ProductName":"Product1 Men AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m1",
+                "ProductName":"Product2 Men AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Trouser"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m2",
+                "ProductName":"Product3 Men AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Hoodies and Sweatshirts"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            },
+            {
+                "id":"m3",
+                "ProductName":"Product4 Men AR",
+                "ProductPrice":"€200.99",
+                "AvailableSizes":["S","M","L","XL","XXL","XXXL"],
+                "Review":["","","","","","","","","",""],
+                "image":[
+                    ""
+                ],
+                "Category":["Jeans"],
+                "Description":"T-Shirt aus weichem, bedrucktem Baumwolljersey. Das T-Shirt hat einen Rundausschnitt mit schmalem Bündchen.",
+                "MoreDetails":{
+                    "Size":"Das Model ist 184cm groß und trägt Größe M",
+                    "Passform":"Regular Fit",
+                    "Origin":"100% cotton",
+                    "ItemNumber":"0846973105",
+                    "ArmLength":"Short arm",
+                    "Section":"Round Section",
+                    "CareInformation":"Machine wash 40grad",
+                    "Concept":"Divided"
+                },
+                "DeliveryCondition":"Standardlieferung nach Hause: 2-4 Tage; 4,99 €. Der Versand erfolgt nur an Wohnadressen oder Abholstationen in Deutschland. Die Liefer- und Rückgaberichtlinien für größere Artikel und unser externes Home Sortiment können abweichen. Für weitere Informationen besuche bitte unsere Kundenservice Seiten. RÜCKSENDUNG und Rückgabe im Geschäft binnen 100 Tagen. ZAHLUNG: Wir akzeptieren Kreditkartenzahlungen mit MasterCard, Visa und Amex. Du kannst auch mit Sofortüberweisung, „Später bezahlen“, Monatsrechnung oder Ratenkauf von Klarna oder mit Paypal und H&M Geschenkkarte bezahlen. Mehr erfährst du auf unseren Kundenserviceseiten."
+            }
+        ]
+    }
+]
